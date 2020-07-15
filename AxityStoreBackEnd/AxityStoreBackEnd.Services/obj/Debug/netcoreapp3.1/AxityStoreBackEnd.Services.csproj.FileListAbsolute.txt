@@ -1,0 +1,9 @@
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Services\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Services\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Services\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Services.csprojAssemblyReference.cache
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Services\obj\Debug\netcoreapp3.1\staticwebassets\AxityStoreBackEnd.Services.StaticWebAssets.Manifest.cache
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Services\obj\Debug\netcoreapp3.1\staticwebassets\AxityStoreBackEnd.Services.StaticWebAssets.xml
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Services\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Services.AssemblyInfoInputs.cache
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Services\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Services.AssemblyInfo.cs
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Services\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Services.RazorTargetAssemblyInfo.cache
