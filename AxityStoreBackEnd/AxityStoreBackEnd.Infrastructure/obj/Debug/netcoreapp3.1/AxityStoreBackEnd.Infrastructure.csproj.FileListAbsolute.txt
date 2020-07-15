@@ -1,0 +1,11 @@
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\bin\Debug\netcoreapp3.1\AxityStoreBackEnd.Infrastructure.deps.json
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\bin\Debug\netcoreapp3.1\AxityStoreBackEnd.Infrastructure.dll
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Infrastructure.csprojAssemblyReference.cache
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Infrastructure.AssemblyInfoInputs.cache
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Infrastructure.AssemblyInfo.cs
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\bin\Debug\netcoreapp3.1\AxityStoreBackEnd.Infrastructure.pdb
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\bin\Debug\netcoreapp3.1\AxityStoreBackEnd.Domain.dll
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\bin\Debug\netcoreapp3.1\AxityStoreBackEnd.Domain.pdb
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Infrastructure.csproj.CopyComplete
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Infrastructure.dll
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Infrastructure\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Infrastructure.pdb

@@ -2,6 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
+using AxityStoreBackEnd.Infrastructure.Configuration;
+using AxityStoreBackEnd.Infrastructure.Data.Mapping;
+using AxityStoreBackEnd.Services.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -25,6 +29,15 @@ namespace AxityStoreBackEnd.Services
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<ConfigurationApp>(Configuration.GetSection(nameof(ConfigurationApp)));
+
+            services.AddAutoMapper(config =>
+            {
+                config.AddProfile<DataProfile>();
+            });
+
+            services.RegisterServices();
+            services.AddMvc();
             services.AddControllers();
         }
 
@@ -36,7 +49,7 @@ namespace AxityStoreBackEnd.Services
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
 
             app.UseRouting();
 

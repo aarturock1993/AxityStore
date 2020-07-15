@@ -4,14 +4,14 @@
     "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Infrastructure\\AxityStoreBackEnd.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Infrastructure\\AxityStoreBackEnd.Infrastructure.csproj": {
+    "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Domain\\AxityStoreBackEnd.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Infrastructure\\AxityStoreBackEnd.Infrastructure.csproj",
-        "projectName": "AxityStoreBackEnd.Infrastructure",
-        "projectPath": "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Infrastructure\\AxityStoreBackEnd.Infrastructure.csproj",
+        "projectUniqueName": "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Domain\\AxityStoreBackEnd.Domain.csproj",
+        "projectName": "AxityStoreBackEnd.Domain",
+        "projectPath": "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Domain\\AxityStoreBackEnd.Domain.csproj",
         "packagesPath": "C:\\Users\\aarturock92\\.nuget\\packages\\",
-        "outputPath": "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Infrastructure\\obj\\",
+        "outputPath": "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,79 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Infrastructure\\AxityStoreBackEnd.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Infrastructure\\AxityStoreBackEnd.Infrastructure.csproj",
+        "projectName": "AxityStoreBackEnd.Infrastructure",
+        "projectPath": "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Infrastructure\\AxityStoreBackEnd.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\aarturock92\\.nuget\\packages\\",
+        "outputPath": "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aarturock92\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Domain\\AxityStoreBackEnd.Domain.csproj": {
+                "projectPath": "D:\\AxityStore\\AxityStoreBackEnd\\AxityStoreBackEnd.Domain\\AxityStoreBackEnd.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

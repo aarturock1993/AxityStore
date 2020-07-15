@@ -1,0 +1,8 @@
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Domain\bin\Debug\netcoreapp3.1\AxityStoreBackEnd.Domain.deps.json
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Domain\bin\Debug\netcoreapp3.1\AxityStoreBackEnd.Domain.dll
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Domain\bin\Debug\netcoreapp3.1\AxityStoreBackEnd.Domain.pdb
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Domain\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Domain.csprojAssemblyReference.cache
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Domain\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Domain.AssemblyInfoInputs.cache
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Domain\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Domain.AssemblyInfo.cs
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Domain\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Domain.dll
+D:\AxityStore\AxityStoreBackEnd\AxityStoreBackEnd.Domain\obj\Debug\netcoreapp3.1\AxityStoreBackEnd.Domain.pdb
