@@ -1,0 +1,23 @@
+<h3>Login</h3>
+<form (ngSubmit)="save()"
+       [formGroup]="loginForm">
+    
+    <br>
+    <label>Nombre:</label>
+    <input type="text" formControlName="name">
+
+    <br>
+    <br>
+    <label>Apellido:</label>
+    <input type="password" formControlName="lastName">
+   
+    <br>
+    <br>
+    <button type="submit" [disabled]="!loginForm.valid">
+        Login
+    </button>
+
+    <br>
+    <br>
+    <h4> {{ errorMessage }}</h4>
+</form>
