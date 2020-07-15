@@ -1,1 +1,25 @@
-<p>product works!</p>
+<h3>Bienvenido: {{ userInfo.name }} {{ userInfo.lastName }}  </h3>
+
+<table>
+    <thead>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Cantidad</th>
+        <th>Precio</th>
+    </thead>
+    <tbody>
+        <tr *ngFor="let product of products">
+            <td>{{product.id}}</td>
+            <td>{{product.name}}</td>
+            <td>{{product.quantity}}</td>
+            <td>{{product.price}}</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+{{ errorMessage }}
+
+<button type="button" (click)="logOut()">
+    Salir
+</button>
